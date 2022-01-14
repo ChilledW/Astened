@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chilled Wave
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Conding
-- 💞️ I’m looking to collaborate on Conding
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me Discord: Chilled#2413
 
 <!---
