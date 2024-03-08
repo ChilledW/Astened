@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chilled Wave
+- 👋 Hi, I’m @ChilledW
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me Discord: Chilled#7007
+- 📫 How to reach me Discord: ChilledWave
 
 <!---
 Astened/Astened is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
